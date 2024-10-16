@@ -1,0 +1,18 @@
+.cars{
+    background-color: aqua;
+    border:2px solid red;
+    text-align:center;
+    padding:10px;
+}
+.fruits{
+    background-color: blueviolet;
+    padding:10px;
+    text-align: center;
+    border:2px solid red;
+}
+.CARS{
+   background-color: blueviolet;
+    padding:10px;
+    text-align: center;
+    border:2px solid red;
+}
